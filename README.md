@@ -1,1 +1,1 @@
-# To start the project just run `npm run dev` and that's it.
+# To start the project just run `npm i` for dependencies and `npm run dev` after.
